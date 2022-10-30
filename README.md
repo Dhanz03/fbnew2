@@ -24,6 +24,8 @@ $ git clone https://github.com/Dhanz03/fbnew2
 
 $ cd fbnew2 
 
+$ git pull
+
 $ ls
 
 $ python fbnew2.py
